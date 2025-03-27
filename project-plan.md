@@ -9,7 +9,7 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 |------|--------------|----------|
 | [1️⃣ Set up GitHub](#1️⃣-set-up-github) | Robert | ✅ Completed |
 | [2️⃣ Create Tasks and Assign Work to Members](#2️⃣-create-tasks-and-assign-work-to-members) | Khadeeja | 🔄 In Progress |
-| [3️⃣ Task Estimation in Scrum](#3️⃣-task-estimation-in-scrum) | Alex, Margarita | ⬜️ Not Started |
+| [3️⃣ Task Estimation in Scrum](#3️⃣-task-estimation-in-scrum) | Alex, Margarita | 🔄 In Progress |
 | [4️⃣ Code Reviews](#4️⃣-code-reviews) | Alex, Margarita, Robert | ⬜️ Not Started |
 | [5️⃣ Testing](#5️⃣-testing) | Robert, Khadeeja | ⬜️ Not Started |
 | [6️⃣ Handbook Introduction](#6️⃣-handbook-introduction) | Khadeeja, Margarita | ⬜️ Not Started |
@@ -36,7 +36,7 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 
 |   | Subtask | Assigned To | Status |
 |---|---------|-------------|--------|
-| 1 | List all major tasks and subtasks in the project plan | Khadeeja | 🔄 In Progress |
+| 1 | List all major tasks and subtasks in the project plan | Khadeeja | ✅ Completed  |
 | 2 | Assign members to tasks | Khadeeja | 🔄 In Progress |
 | 3 | Follow up with team members on their progress until completion | Khadeeja | 🔄 In Progress |
 
@@ -45,7 +45,7 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 
 |   | Subtask | Assigned To | Status |
 |---|---------|-------------|--------|
-| 1 | Write introduction | Margarita | ⬜️ Not Started |
+| 1 | Write introduction | Margarita | 🔄 In Progress |
 | 2 | Add steps to the Implentation Guide | Alex | ⬜️ Not Started |
 | 3 | Add points to Common Pitfalls | Margarita | ⬜️ Not Started |
 | 4 | Add relevant diagrams/visuals (if applicable) | Both | ⬜️ Not Started |
