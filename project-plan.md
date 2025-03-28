@@ -11,7 +11,7 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 | [2️⃣ Create Tasks and Assign Work to Members](#2️⃣-create-tasks-and-assign-work-to-members) | Khadeeja | 🔄 In Progress |
 | [3️⃣ Task Estimation in Scrum](#3️⃣-task-estimation-in-scrum) | Alex, Margarita | 🔄 In Progress |
 | [4️⃣ Code Reviews](#4️⃣-code-reviews) | Alex, Margarita, Robert | ⬜️ Not Started |
-| [5️⃣ Testing](#5️⃣-testing) | Robert, Khadeeja | ⬜️ Not Started |
+| [5️⃣ Testing](#5️⃣-testing) | Robert, Khadeeja | 🔄 In Progress |
 | [6️⃣ Handbook Introduction](#6️⃣-handbook-introduction) | Khadeeja, Margarita | ⬜️ Not Started |
 | [7️⃣ Final Alterations](#7️⃣-final-alterations) | All Members | ⬜️ Not Started |
 | [8️⃣ Team Reflection](#8️⃣-team-reflection) | All Members | ⬜️ Not Started |
@@ -37,7 +37,7 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 |   | Subtask | Assigned To | Status |
 |---|---------|-------------|--------|
 | 1 | List all major tasks and subtasks in the project plan | Khadeeja | ✅ Completed  |
-| 2 | Assign members to tasks | Khadeeja | 🔄 In Progress |
+| 2 | Assign members to tasks | Khadeeja | ✅ Completed |
 | 3 | Follow up with team members on their progress until completion | Khadeeja | 🔄 In Progress |
 
 
@@ -46,8 +46,8 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 |   | Subtask | Assigned To | Status |
 |---|---------|-------------|--------|
 | 1 | Write introduction | Margarita | 🔄 In Progress |
-| 2 | Add steps to the Implentation Guide | Alex | ⬜️ Not Started |
-| 3 | Add points to Common Pitfalls | Margarita | ⬜️ Not Started |
+| 2 | Add steps to the Implentation Guide | Alex | 🔄 In Progress |
+| 3 | Add points to Common Pitfalls | Margarita | 🔄 In Progress |
 | 4 | Add relevant diagrams/visuals (if applicable) | Both | ⬜️ Not Started |
 | 5 | Refrence resources | Both | ⬜️ Not Started |
 | 6 | Confirm 500–1000 word limit in Markdown | Both | ⬜️ Not Started |
@@ -73,9 +73,9 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 
 |   | Subtask | Assigned To | Status |
 |---|---------|-------------|--------|
-| 1 | Write introduction | Robert | ⬜️ Not Started |
-| 2 | Add steps to the Implentation Guide | Robert | ⬜️ Not Started |
-| 3 | Add points to Common Pitfalls | Khadeeja | ⬜️ Not Started |
+| 1 | Write introduction | Robert | ✅ Completed |
+| 2 | Add steps to the Implentation Guide | Robert | 🔄 In Progress |
+| 3 | Add points to Common Pitfalls | Khadeeja | 🔄 In Progress |
 | 4 | Add relevant diagrams/visuals (if applicable) | Both | ⬜️ Not Started|
 | 5 | Refrence resources | Both | ⬜️ Not Started |
 | 6 | Confirm 500–1000 word limit in Markdown | Khadeeja | ⬜️ Not Started |
