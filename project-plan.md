@@ -51,7 +51,7 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 | 4 | Add relevant diagrams/visuals (if applicable) | Both | ⬜️ Not Started |
 | 5 | Refrence resources | Both | ⬜️ Not Started |
 | 6 | Confirm 500–1000 word limit in Markdown | Both | ⬜️ Not Started |
-| 7 | Submit Pull Request |  | ⬜️ Not Started |
+| 7 | Submit Pull Request | Both | ⬜️ Not Started |
 | 8 | Review and merge to main | All Members | ⬜️ Not Started |
 
 
@@ -59,28 +59,28 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 
 |   | Subtask | Assigned To | Status |
 |---|---------|-------------|--------|
-| 1 | Write introduction |  | ⬜️ Not Started |
-| 2 | Add steps to the Implentation Guide |  | ⬜️ Not Started |
-| 3 | Add points to Common Pitfalls |  | ⬜️ Not Started |
-| 4 | Add relevant diagrams/visuals (if applicable) |  | ⬜️ Not Started |
-| 5 | Refrence resources |  | ⬜️ Not Started |
-| 6 | Confirm 500–1000 word limit in Markdown |  | ⬜️ Not Started |
-| 7 | Submit Pull Request |  | ⬜️ Not Started |
-| 8 | Review and merge to main |  | ⬜️ Not Started |
+| 1 | Write introduction | Margarita | ⬜️ Not Started |
+| 2 | Add steps to the Implentation Guide | Alex | ⬜️ Not Started |
+| 3 | Add points to Common Pitfalls | Robert | ⬜️ Not Started |
+| 4 | Add relevant diagrams/visuals (if applicable) | All Members | ⬜️ Not Started |
+| 5 | Refrence resources | Margarita | ⬜️ Not Started |
+| 6 | Confirm 500–1000 word limit in Markdown | All Members | ⬜️ Not Started |
+| 7 | Submit Pull Request | All Members | ⬜️ Not Started |
+| 8 | Review and merge to main | All Members | ⬜️ Not Started |
 
 
 ### 5️⃣ Testing    
 
 |   | Subtask | Assigned To | Status |
 |---|---------|-------------|--------|
-| 1 | Write introduction |  | ⬜️ Not Started |
-| 2 | Add steps to the Implentation Guide |  | ⬜️ Not Started |
-| 3 | Add points to Common Pitfalls |  | ⬜️ Not Started |
-| 4 | Add relevant diagrams/visuals (if applicable) |  | ⬜️ Not Started |
-| 5 | Refrence resources |  | ⬜️ Not Started |
-| 6 | Confirm 500–1000 word limit in Markdown |  | ⬜️ Not Started |
-| 7 | Submit Pull Request |  | ⬜️ Not Started |
-| 8 | Review and merge to main |  | ⬜️ Not Started |
+| 1 | Write introduction | Robert | ⬜️ Not Started |
+| 2 | Add steps to the Implentation Guide | Robert | ⬜️ Not Started |
+| 3 | Add points to Common Pitfalls | Khadeeja | ⬜️ Not Started |
+| 4 | Add relevant diagrams/visuals (if applicable) | Both | ⬜️ Not Started|
+| 5 | Refrence resources | Both | ⬜️ Not Started |
+| 6 | Confirm 500–1000 word limit in Markdown | Khadeeja | ⬜️ Not Started |
+| 7 | Submit Pull Request | Both | ⬜️ Not Started |
+| 8 | Review and merge to main | All Members | ⬜️ Not Started |
 
 
 ### 6️⃣ Handbook Introduction  
@@ -88,10 +88,10 @@ This file outlines and connects all main tasks to subtasks, maps resposibilties 
 |   | Subtask | Assigned To | Status |
 |---|---------|-------------|--------|
 | 1 | Outline purpose of the handbook | Khadeeja | ⬜️ Not Started |
-| 2 | Describe how to navigate the repository |  | ⬜️ Not Started |
-| 3 | Write brief descriptions of each topic |  | ⬜️ Not Started |
-| 4 | Add internal links to each topic file |  | ⬜️ Not Started |
-| 5 | Submit PR and merge to main |  | ⬜️ Not Started |
+| 2 | Describe how to navigate the repository | Margarita | ⬜️ Not Started |
+| 3 | Write brief descriptions of each topic | Khadeeja | ⬜️ Not Started |
+| 4 | Add internal links to each topic file | Margarita | ⬜️ Not Started |
+| 5 | Submit PR and merge to main | Both | ⬜️ Not Started |
 
 
 ### 7️⃣ Final Alterations  
